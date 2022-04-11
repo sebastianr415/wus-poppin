@@ -1,0 +1,25 @@
+body{
+    background-color:#EAEAEA;
+}
+.cities-list{
+    height: 300px;
+    background-color: #212121;
+    /* display:flex;
+    flex-direction:row-reverse nowrap;
+    justify-content: flex-start;*/
+} 
+/* p{
+    color:white;
+} */
+ul {
+    list-style-type: none;
+    display:flex;
+    flex-flow:row-reverse;
+    padding:20px;
+
+    /* justify-content:space-evenly; */
+}
+a{
+    text-decoration:none;
+    color:white;
+}
